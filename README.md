@@ -5,6 +5,7 @@ The following [tweet from Daniel Steinberg](https://twitter.com/dimsumthinking/s
 >I mostly use the number formatter to set the fractional digits like this:
 >
 >f.minimumFractionDigits = 3
+>
 >f.maximumFractionDigits = 3
 >
 >why no f.fractionDigits computed property in the Swift overlay
